@@ -59,6 +59,3 @@ Repository Contents
 * `sql_queries/`: Text files containing the **PostgreSQL (SQL)** queries I ran for the key findings.
 * `power_bi_report/`: Link or screenshot of the final Power BI dashboard I built.
 * `README.md`: (This file) Project summary and findings.
-
-
-Do you want me to help you draft the opening paragraph for the **Jupyter Notebook** itself?
